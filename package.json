@@ -1,0 +1,16 @@
+{
+  "name": "repo_deleter",
+  "version": "1.0.0",
+  "description": "This project is a simple, interactive Node.js script that will allow you to quickly delete repositories on Github.",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/rest": "^16.3.0",
+    "enquirer": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
