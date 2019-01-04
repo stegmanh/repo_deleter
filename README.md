@@ -12,6 +12,7 @@ taken. If you have any issues running the script or encounter a bug, please open
 # Installation
 
 `git clone https://github.com/stegman/repo_deleter`
+
 `npm install`
 
 # Usage
